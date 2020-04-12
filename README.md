@@ -12,3 +12,5 @@ Attached you will find a DB dump and a .csv file. Here you will find data for on
 * [ ] Implement a functionality which will be able to read the data available either in the DB or .csv
 
 * [ ] Create a call which will return the transactions combined in a json
+
+```GET /transactions```
